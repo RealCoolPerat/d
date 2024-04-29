@@ -1,6 +1,6 @@
 import os
 import sys
-from tkinter import *           ##хуй лалалалендд
+from tkinter import *           ##хуй лалалаленддlg12
 from random import randint
 
 coloda = [2, 2, 3, 3, 4, 4, 5, 6, 7, 8, 9, 10, 11]
