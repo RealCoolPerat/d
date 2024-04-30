@@ -5,7 +5,7 @@ from random import randint
 
 coloda = [2, 2, 3, 3, 4, 4, 5, 6, 7, 8, 9, 10, 11]
 z = randint(2, 11)
-
+#1231321321313
 count = 0
 count_array = []
 countt = 0
